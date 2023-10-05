@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-26T12:48:41 EDT" name="Default suite" finished-at="2023-09-26T12:48:45 EDT" duration-ms="3725">
+    <groups>
+    </groups>
+    <test started-at="2023-09-26T12:48:41 EDT" name="Default test" finished-at="2023-09-26T12:48:45 EDT" duration-ms="3725">
+      <class name="testCases.TC_002_SignInPage">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.TC_002_SignInPage@3c41ed1d]" started-at="2023-09-26T12:48:41 EDT" name="setup" finished-at="2023-09-26T12:48:43 EDT" duration-ms="2629" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="test_signinpage()[pri:0, instance:testCases.TC_002_SignInPage@3c41ed1d]" started-at="2023-09-26T12:48:43 EDT" name="test_signinpage" finished-at="2023-09-26T12:48:45 EDT" duration-ms="1053" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_signinpage -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testCases.TC_002_SignInPage@3c41ed1d]" started-at="2023-09-26T12:48:45 EDT" name="teardown" finished-at="2023-09-26T12:48:45 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testCases.TC_002_SignInPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
